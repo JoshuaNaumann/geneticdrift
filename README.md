@@ -11,3 +11,5 @@ ToDos:
 * food chain ranking
 * award evolution points to evolve -> for what
 * implement evolutiontree like earths
+* include natural events such as Vulkanos meteor impact etc.
+* include eviromental parameters such as atmospericcomponents
