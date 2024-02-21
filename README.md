@@ -7,6 +7,6 @@ ToDos:
 
 * game npcs with AI <- find best suited model
 * world generation
-* simulator like plaque inc? -> boring -> watch single organisms behave in first person in the furture
+* simulator like plaque inc
 * food chain ranking
 
